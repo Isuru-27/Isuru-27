@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isuru-27&label=Profile%20views&color=0e75b6&style=flat" alt="isuru-27" /> </p>
 
-<img src = "C:\Users\Isuru\Desktop\New folder\welcome.gif"
+
 
 - 🌱 I’m currently learning **React,Java**
 
