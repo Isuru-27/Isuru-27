@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **dilshanisuru2000@gmail.com**
 
+  ---
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/isuru dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isuru dilshan"  height="50" width="50" /></a>
