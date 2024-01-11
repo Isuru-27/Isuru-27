@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **React,Java**
 
+- 🧑‍🎓 I’m an Undergraduate at Institute of Technology University of Moratuwa
+
 - 💬 Ask me about **Python,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **dilshanisuru2000@gmail.com**
