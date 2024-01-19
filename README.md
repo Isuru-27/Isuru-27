@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isuru D Rajamanthri</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-
-[![Uploading Welcome to the Reality...! (1).gif…]()](https://private-user-images.githubusercontent.com/139687227/298107925-6e034d7c-7557-48fa-9136-e54eb92992f1.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU2NzcwMjcsIm5iZiI6MTcwNTY3NjcyNywicGF0aCI6Ii8xMzk2ODcyMjcvMjk4MTA3OTI1LTZlMDM0ZDdjLTc1NTctNDhmYS05MTM2LWU1NGViOTI5OTJmMS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOVQxNTA1MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iNzZlMmYyYjkyNTdhMDkwNThmMzY3NjU3NGM3ODlhNmZhNTQzOTFiNjk2ZmRlYTc1MTY1ZTAzMTg5MDQzNjA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.h5fasVVYMnBXwYkhy-DIhhdyHEIIfb1VPVV6pIZWF9k)
-
+https://github.com/Isuru-27/Isuru-27/issues/1#issue-2090745595
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+Github+profile...;Frontend+Delveloper;Creative+Thinking;Always+learning+new+things"></a>
