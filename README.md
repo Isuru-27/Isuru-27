@@ -12,7 +12,7 @@
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 
-- 🌱 I’m currently learning **React,Java**
+- 🌱 I’m currently learning **React,Java,MongoDB**
 
 - 🧑‍🎓 I’m an Undergraduate at Institute of Technology University of Moratuwa
 
@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://codepen.io/isuru dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="isuru dilshan"  height="50" width="50" /></a>
 <a href="https://linkedin.com/in/isuru-d-rajamanthri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-d-rajamanthri"  height="50" width="50" /></a>
-<a href="https://fb.com/isuru-d-rajamanthri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuru-d-rajamanthri"  height="50" width="50" /></a>
+<a href="https://www.facebook.com/isuru.dilshan.98031?mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuru-d-rajamanthri"  height="50" width="50" /></a>
 </p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
