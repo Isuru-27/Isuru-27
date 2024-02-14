@@ -54,4 +54,9 @@
   </td>
 </tr>
 </table>
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=isuru-27&theme=darkhub&column=7&bgColor=000000&noFrame=true&row=1&margin-w=15" alt="GitHub Trophies" />
+  </p>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Isuru-27's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Isuru-27&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
