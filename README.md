@@ -28,6 +28,7 @@
 <a href="https://linkedin.com/in/isuru-d-rajamanthri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="isuru-d-rajamanthri"  height="50" width="50" /></a>
 <a href="https://www.facebook.com/isuru.dilshan.98031?mibextid=JRoKGi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="isuru-d-rajamanthri"  height="50" width="50" /></a>
 </p>
+<a href="https://instagram.com/isuru_d_rajamanthri" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="isuru_d_rajamanthri" height="50" width="50" /></a>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
